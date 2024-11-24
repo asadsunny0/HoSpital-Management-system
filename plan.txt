@@ -1,0 +1,2 @@
+1. Doctor Information
+2. patient admit
