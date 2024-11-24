@@ -1,2 +1,8 @@
-1. Doctor Information
-2. patient admit
+Our plan
+------------------
+
+Welcome To Our Hospital
+
+1. Doctor list
+2. Request for an appointment
+3. All appointments (Doctor wise)
